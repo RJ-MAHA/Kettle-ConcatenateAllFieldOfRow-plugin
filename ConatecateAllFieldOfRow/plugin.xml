@@ -1,0 +1,24 @@
+<?eclipse version="3.0"?>
+<plugin
+   id="ConatecateAllFieldOfRow"
+   iconfile="S3I.svg"
+   description="Conatecate All Field Of A Single Row"
+   tooltip="Conatecate All Field Of A Single Row"
+   category="Input"
+   classname="org.kettlesolutions.plugin.step.conatecateAllFieldOfRow.ConatecateAllFieldOfRowStepMeta">
+   <libraries>
+    <library name="ConatecateAllFieldOfRow.jar"/>
+    </libraries>
+   <localized_category>
+     <category locale="en_US">李仁君专用</category>
+  
+   </localized_category>
+   <localized_description>
+     <description locale="en_US">合并字段</description>
+
+   </localized_description>
+   <localized_tooltip>
+     <tooltip locale="en_US">合并一行数据到指定字段，字段间以|---|分割</tooltip>
+
+   </localized_tooltip>
+</plugin>
