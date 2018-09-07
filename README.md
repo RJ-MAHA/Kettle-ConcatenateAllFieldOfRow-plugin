@@ -1,0 +1,1 @@
+"# Kettle-ConcatenateAllFieldOfRow-plugin" 
